@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    margin-left: 180px;
+    margin-right: 20px;
+    background-image: url(4220753.webp);
+    background-repeat: repeat-y;
+    background-size: 165px;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+a{
+    color: lightgreen;
+}
+.ch{
+    height: 400px;
+    width: 700px;
+}

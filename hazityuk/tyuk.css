@@ -1,0 +1,32 @@
+body{
+    color: #003399;
+    text-align: justify;
+}
+.torzs{
+    background-color: #EEEECC;
+    height: auto;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.kozep{
+    text-align: center;
+}
+.bal{
+    text-align: left;
+}
+.jobb{
+    text-align: right;
+}
+table{ 
+    float: center;
+}
+.nagy_kep{
+    float: right;
+    border: 1px;
+    margin: 10px;
+}
+.hatter{
+    background-image: url(hatter.jpg);
+    background-repeat: repeat;
+}
